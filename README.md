@@ -15,7 +15,7 @@ This repository contains three small Python programs developed collaboratively b
 ### 2. Calendar 🗓️
 - Developer: Gan Ye Qing
 - Features: Monthly/weekly view, event creation, reminders.
-- Run with: `alendar_timetablep.py`
+- Run with: `calendar_timetablep.py`
 
 ### 3. Homework Manager 📚
 - Developer: Lee Zi Qinn
